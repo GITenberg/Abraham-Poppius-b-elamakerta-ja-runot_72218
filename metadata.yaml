@@ -1,0 +1,38 @@
+_repo: Abraham-Poppius-b-elamakerta-ja-runot_72218
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Bergholm, A. H.
+    alias: Bergholm, Axel Herman
+    birthdate: 1876
+    deathdate: 1949
+    gutenberg_agent_id: '56597'
+    url: http://www.gutenberg.org/2009/agents/56597
+    wikipedia: https://fi.wikipedia.org/wiki/A._H._Bergholm
+  - agent_name: Poppius, Abraham
+    birthdate: 1793
+    deathdate: 1866
+    gutenberg_agent_id: '56587'
+    url: http://www.gutenberg.org/2009/agents/56587
+    wikipedia: https://fi.wikipedia.org/wiki/Abraham_Poppius
+description: ''
+gutenberg_issued: '2023-11-24'
+identifiers:
+  gutenberg: '72218'
+language: fi
+pgterms:marc904: https://digi.kansalliskirjasto.fi/aikakausi/binding/498423?page=6
+pgterms:marc905: 20231120003100bergholm
+pgterms:marc906: '1899'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHelsinki :$bSuomalaisen Kirjallisuuden Seura, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish poetry -- 19th century'
+- !lcsh 'Poppius, Abraham, 1793-1866'
+- !lcc 'PH'
+- GITenberg
+title: 'Abraham Poppius : $b elämäkerta ja runot'
+url: http://www.gutenberg.org/ebooks/72218
