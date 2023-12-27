@@ -1,5 +1,8 @@
 _repo: Abraham-Poppius-b-elamakerta-ja-runot_72218
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Bergholm, A. H.
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56587
     wikipedia: https://fi.wikipedia.org/wiki/Abraham_Poppius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72218#Abraham-Poppius-b-elamakerta-ja-runot
 gutenberg_issued: '2023-11-24'
 identifiers:
   gutenberg: '72218'
